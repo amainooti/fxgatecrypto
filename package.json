@@ -1,0 +1,10 @@
+{
+    "name": "----",
+    "description": "About a full stack web site for a broker company built with Javascript, django, Mongo, Sass",
+    "repository": {
+        "type" : "git",
+        "url":"git+https://github.com/Akohjesse/Golden-GATE-Website.git"
+    },
+    "author": "Samuel Oti & Akoh Jesse",
+    "homepage": "--"
+}
